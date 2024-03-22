@@ -1,2 +1,3 @@
 #file readme
-this file for just learning
+this file is just for learning 
+##git&github
